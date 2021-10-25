@@ -8,9 +8,9 @@ An e-commerce platform that uses Redux to manage global state
 
 ## ScreenShot
 
-![Image](./src/assets/images/react-screenshot.png)
-![Image](./src/assets/images/react-screenshot2.png)
-![Image](./src/assets/images/react-screenshot2.png)
+![Image](./assets/images/react-screenshot.png)
+![Image](./assets/images/react-screenshot2.png)
+![Image](./assets/images/react-screenshot2.png)
 
 ## Table of Contents
 
