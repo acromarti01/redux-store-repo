@@ -62,4 +62,4 @@ Any additional question you can reach me at <u>acromarti@gmail.com</u>
 
 ## Link to Deployed App
 
-----------------------
+https://anthony-redux-store.herokuapp.com/
